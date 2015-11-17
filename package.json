@@ -1,0 +1,70 @@
+{
+  "name": "grunt-kss",
+  "description": "KSS styleguide generator for grunt.",
+  "version": "0.4.0",
+  "homepage": "https://github.com/t32k/grunt-kss",
+  "author": {
+    "name": "Koji Ishimoto",
+    "email": "ijok.ijok@gmail.com",
+    "url": "http://t32k.me/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/t32k/grunt-kss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/t32k/grunt-kss/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/t32k/grunt-kss/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "kss": "~0.3.7",
+    "node-sass": "~0.9.3"
+  },
+  "devDependencies": {
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.4"
+  },
+  "keywords": [
+    "gruntplugin",
+    "styleguide",
+    "kss-node",
+    "css"
+  ],
+  "_id": "grunt-kss@0.4.0",
+  "_shasum": "28a8a964fbbaa4cb3a298e237161a3abf0238657",
+  "_from": "grunt-kss@~0.4.0",
+  "_npmVersion": "1.4.9",
+  "_npmUser": {
+    "name": "t32k",
+    "email": "ijok.ijok@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "t32k",
+      "email": "ijok.ijok@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "28a8a964fbbaa4cb3a298e237161a3abf0238657",
+    "tarball": "http://registry.npmjs.org/grunt-kss/-/grunt-kss-0.4.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/grunt-kss/-/grunt-kss-0.4.0.tgz"
+}
